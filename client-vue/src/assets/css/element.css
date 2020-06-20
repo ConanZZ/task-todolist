@@ -1,0 +1,91 @@
+.input{
+	width:60%;
+	height:30px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+.tip{
+	display: flex;
+	margin-left:20%;
+	margin-top:50px;
+	font-size: medium;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+.leftItem{
+	color: #4CD964;
+	display: inline-block;
+	position: absolute;
+	margin-left:-45%;
+}
+.btn{
+	display: inline-block;
+	position: absolute;
+	margin-left: 16%;
+}
+.selectStyle{
+	background-color: #c0bbc0;
+}
+.selectStyle:focus{
+	background-color: #c0bbc0;
+		}
+.listname{
+	margin-left:20%;
+	margin-top:40px;
+	font-size: x-large;
+	font-family: Georgia, serif;
+}
+.list{
+	list-style:none;
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.item{
+	  list-style: none;
+	  display: flex;
+	  flex-direction: row;
+	  margin-top:10px;
+	  font-size: medium;
+	  position: relative;
+	  height: 50px;
+	  align-items: center; 
+	  background-color: #e9f0c6;
+}
+.item:hover{
+	background-color: #C0C0C0;
+}
+.msg{
+	margin-left:10px;
+	word-break: break-all;
+	width:90%;
+	color: #808080;
+	font-size: large;
+}
+.delete{
+	display:inline-block;
+	height:60%;
+	width:24px;
+	position: absolute;
+	margin-left:95%;
+	margin-top:5px;
+}
+.editMsg{
+	position: relative;
+	z-index: 1;
+	margin-left:10px;
+	margin-top:3px;
+	width:60%;
+	font-size: large;
+}
+.delLine{
+	text-decoration:line-through;
+	color:red;
+}
+.chk{
+	position: relative;
+	margin-left:10px;
+}
