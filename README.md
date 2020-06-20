@@ -47,3 +47,7 @@ nodejs(express)+MySQL
     // 启动项目
     
     npm start
+    
+- **浏览器访问**
+ 
+    http://localhost:8080
