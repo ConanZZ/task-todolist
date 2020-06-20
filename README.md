@@ -14,9 +14,11 @@ vue+axio
 ### 后端技术栈
 nodejs(express)+MySQL
 ### 环境配置
-MySQL v8.0.19
-nodejs v12.13.1
-vue
+
+    MySQL v8.0.19
+    
+    nodejs v12.13.1
+    
 ### 项目启动
 - **启动客户端**
 
